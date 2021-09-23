@@ -1,6 +1,6 @@
 # yen_euros_converter
 
-A new Flutter project.
+A simple Flutter application which allows the user to convert euros in yen and yen in euros.
 
 ## Getting Started
 
